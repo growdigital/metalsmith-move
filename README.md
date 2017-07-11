@@ -1,6 +1,8 @@
 # metalsmith-movey
 
-Total clone of [metalsmith-move]() by [Levi Wheatcroft](), because [Netlify]() can't deploy metalsmith plugin from [GitHub](https://github.com/), it has to be on [npmjs.com](https://www.npmjs.com/)
+Total clone fork of [metalsmith-move](https://github.com/leviwheatcroft/metalsmith-move) by [Levi Wheatcroft](https://github.com/leviwheatcroft/), because [Netlify](https://www.netlify.com/) can't deploy metalsmith plugin from [GitHub](https://github.com/), it has to be on [npmjs.com](https://www.npmjs.com/)
+
+Please don't rely on this clone fork, please bug Levi to publish his plugin ;)
 
 [metalsmith](metalsmith.io) plugin to edit file paths
 
