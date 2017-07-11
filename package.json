@@ -1,7 +1,7 @@
 {
-  "name": "metalsmith-move",
-  "version": "0.0.2",
-  "description": "metalsmith plugin to edit file paths",
+  "name": "metalsmith-movey",
+  "version": "0.0.3",
+  "description": "metalsmith plugin to edit file paths, clone of metalsmith-move by Levi Wheatcroft",
   "main": "dist/index.js",
   "scripts": {
     "docs": "rm -fr ./docs/* && docker -o ./docs -I -x dist,.README.md,test/fixtures,node_modules,docs,coverage",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leviwheatcroft/metalsmith-move.git"
+    "url": "git+https://github.com/growdigital/metalsmith-movey.git"
   },
   "keywords": [
     "metalsmith",
@@ -29,13 +29,13 @@
   "author": "Levi Wheatcroft <levi@wheatcrofts.com.au> (http://leviwheatcroft.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/leviwheatcroft/metalsmith-move/issues"
+    "url": "https://github.com/growdigital/metalsmith-movey/issues"
   },
   "files": [
     "dist",
     "README.md"
   ],
-  "homepage": "https://github.com/leviwheatcroft/metalsmith-move#readme",
+  "homepage": "https://github.com/growdigital/metalsmith-movey#readme",
   "dependencies": {
     "lodash": "^4.16.4",
     "metalsmith": "^2.2.0",

@@ -1,21 +1,13 @@
-# metalsmith-move
+# metalsmith-movey
 
-![nodei.co](https://nodei.co/npm/metalsmith-move.png?downloads=true&downloadRank=true&stars=true)
-
-![npm](https://img.shields.io/npm/v/metalsmith-move.svg)
-
-![github-issues](https://img.shields.io/github/issues/leviwheatcroft/metalsmith-move.svg)
-
-![stars](https://img.shields.io/github/stars/leviwheatcroft/metalsmith-move.svg)
-
-![forks](https://img.shields.io/github/forks/leviwheatcroft/metalsmith-move.svg)
+Total clone of [metalsmith-move]() by [Levi Wheatcroft](), because [Netlify]() can't deploy metalsmith plugin from [GitHub](https://github.com/), it has to be on [npmjs.com](https://www.npmjs.com/)
 
 [metalsmith](metalsmith.io) plugin to edit file paths
 
 
 ## install
 
-`npm i --save metalsmith-move`
+`npm i --save metalsmith-movey`
 
 ## usage
 
