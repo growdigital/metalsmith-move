@@ -1,6 +1,6 @@
 {
   "name": "metalsmith-movey",
-  "version": "0.0.3",
+  "version": "0.0.7",
   "description": "metalsmith plugin to edit file paths, clone of metalsmith-move by Levi Wheatcroft",
   "main": "dist/index.js",
   "scripts": {
